@@ -1,15 +1,69 @@
 # Horiseon
-## The title of the project is Horiseon-Making life Easy.
+## Horiseon-Making life Easy.
 
-### Changes made in the HTML Code. 
+### Table of Content
+1. About the Project
+2. Prerequisite
+3. Installation
+4. License
+5. Contribution
 
-In the body of the code replaced the div tags with Headers, Section tags, aside and footer.
+### About the Project
+1. The Project is all about the refractoring an existing to it make more accessible.
 
-The above tags were used to make the the code look relevant and easy to under stand.
+2. First Project in the Bootcamp Program.
 
-Made some changes to link the  SOM for easy navigation.
+3. Replaced the div tags with Headers, sections, aside and footers for easy understanding of the project.
 
-Added alt attributes to specity alternative text for easy understand of images.
+4. Used the alt attributes to add alternative text the image.
 
-Replaced div tag with footer tag.
+5. Made changes to link the ID for easy accessbibility in the website.
+6. Added comments for easy understanding of changes 
+
+### Prerequisite
+
+The most important prerequistite to the projet is to have a github account and having github installed in your machine [git](desktop.github.com) this link is for windows only.
+
+### Installation
+
+1. Inorder to use, after installation create your own repository name.
+
+2. Clone this repository git@github.com:netsy001/Horiseon.git
+
+3. Open `index.html` in yor browser
+
+4. Copy this link
+```html
+    <link rel="stylesheet" href="./assets/css/style.css">
+```
+5. Enjoy.
+
+### License
+
+None
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
